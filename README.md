@@ -27,7 +27,9 @@ List:
 - Yu, H.; Zou, W.; Chen, J.; Chen, H.; Yu, Z.; Huang, J.; Tang, H.; Wei, X.; Gao, B. Biochar Amendment Improves Crop Production in Problem Soils: A Review. J. Environ. Manage. 2019, 232 (September 2018), 8–21; DOI 10.1016/j.jenvman.2018.10.117.
 - Fischer, B. M. C.; Manzoni, S.; Morillas, L.; Garcia, M.; Johnson, M. S.; Lyon, S. W. Improving Agricultural Water Use Efficiency with Biochar – A Synthesis of Biochar Effects on Water Storage and Fluxes across Scales. Sci. Total Environ. 2018, 657, 853–862; DOI 10.1016/j.scitotenv.2018.11.312.
 - Kemper, J. Biomass and Carbon Dioxide Capture and Storage: A Review. Int. J. Greenh. Gas Control 2015, 40, 401–430; DOI 10.1016/j.ijggc.2015.06.012.
-- 
+- Semida, W. M.; Beheiry, H. R.; Sétamou, M.; Simpson, C. R.; Abd El-Mageed, T. A.; Rady, M. M.; Nelson, S. D. Biochar Implications for Sustainable Agriculture and Environment: A Review. South African J. Bot. 2019, 127, 333–347; DOI 10.1016/J.SAJB.2019.11.015.
+
+
 # Meta-analyses
 (quantiative reviews)
 
@@ -53,4 +55,5 @@ List:
 - Omondi, M. O.; Xia, X.; Nahayo, A.; Liu, X.; Korai, P. K.; Pan, G. Quantification of Biochar Effects on Soil Hydrological Properties Using Meta-Analysis of Literature Data. Geoderma 2016, 274, 28–34; DOI 10.1016/j.geoderma.2016.03.029.
 - Whitman, T.; Pepe-Ranney, C.; Enders, A.; Koechli, C.; Campbell, A.; Buckley, D. H.; Lehmann, J. Dynamics of Microbial Community Composition and Soil Organic Carbon Mineralization in Soil Following Addition of Pyrogenic and Fresh Organic Matter. Isme J. 2016, 10, 2918; DOI 10.1038/ismej.2016.68 https://www.nature.com/articles/ismej201668#supplementary-information.
 - Gonnermann, H.; Barnes, R. T.; Gallagher, M. E.; Masiello, C. A.; Dugan, B.; Liu, Z. Impacts of Biochar Concentration and Particle Size on Hydraulic Conductivity and DOC Leaching of Biochar–sand Mixtures. J. Hydrol. 2015, 533, 461–472; DOI 10.1016/j.jhydrol.2015.12.007.
-- 
+
+- Tisserant, A.; Cherubini, F. Potentials, Limitations, Co-Benefits, and Trade-Offs of Biochar Applications to Soils for Climate Change Mitigation. L. 2019, 8 (12); DOI 10.3390/land8120179.
