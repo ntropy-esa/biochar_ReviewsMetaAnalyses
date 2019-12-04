@@ -55,5 +55,5 @@ List:
 - Omondi, M. O.; Xia, X.; Nahayo, A.; Liu, X.; Korai, P. K.; Pan, G. Quantification of Biochar Effects on Soil Hydrological Properties Using Meta-Analysis of Literature Data. Geoderma 2016, 274, 28–34; DOI 10.1016/j.geoderma.2016.03.029.
 - Whitman, T.; Pepe-Ranney, C.; Enders, A.; Koechli, C.; Campbell, A.; Buckley, D. H.; Lehmann, J. Dynamics of Microbial Community Composition and Soil Organic Carbon Mineralization in Soil Following Addition of Pyrogenic and Fresh Organic Matter. Isme J. 2016, 10, 2918; DOI 10.1038/ismej.2016.68 https://www.nature.com/articles/ismej201668#supplementary-information.
 - Gonnermann, H.; Barnes, R. T.; Gallagher, M. E.; Masiello, C. A.; Dugan, B.; Liu, Z. Impacts of Biochar Concentration and Particle Size on Hydraulic Conductivity and DOC Leaching of Biochar–sand Mixtures. J. Hydrol. 2015, 533, 461–472; DOI 10.1016/j.jhydrol.2015.12.007.
-
 - Tisserant, A.; Cherubini, F. Potentials, Limitations, Co-Benefits, and Trade-Offs of Biochar Applications to Soils for Climate Change Mitigation. L. 2019, 8 (12); DOI 10.3390/land8120179.
+- Razzaghi, F.; Obour, P. B.; Arthur, E. Does Biochar Improve Soil Water Retention? A Systematic Review and Meta-Analysis. Geoderma 2019, 114055; DOI https://doi.org/10.1016/j.geoderma.2019.114055.
