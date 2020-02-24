@@ -28,6 +28,7 @@ List:
 - Fischer, B. M. C.; Manzoni, S.; Morillas, L.; Garcia, M.; Johnson, M. S.; Lyon, S. W. Improving Agricultural Water Use Efficiency with Biochar – A Synthesis of Biochar Effects on Water Storage and Fluxes across Scales. Sci. Total Environ. 2018, 657, 853–862; DOI 10.1016/j.scitotenv.2018.11.312.
 - Kemper, J. Biomass and Carbon Dioxide Capture and Storage: A Review. Int. J. Greenh. Gas Control 2015, 40, 401–430; DOI 10.1016/j.ijggc.2015.06.012.
 - Semida, W. M.; Beheiry, H. R.; Sétamou, M.; Simpson, C. R.; Abd El-Mageed, T. A.; Rady, M. M.; Nelson, S. D. Biochar Implications for Sustainable Agriculture and Environment: A Review. South African J. Bot. 2019, 127, 333–347; DOI 10.1016/J.SAJB.2019.11.015.
+- Man, K. Y.; Chow, K. L.; Man, Y. B.; Mo, W. Y.; Wong, M. H. Use of Biochar as Feed Supplements for Animal Farming. Crit. Rev. Environ. Sci. Technol. 2020, 1–31; DOI 10.1080/10643389.2020.1721980.
 
 
 # Meta-analyses
